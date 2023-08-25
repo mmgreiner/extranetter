@@ -1,4 +1,4 @@
-module mmgreiner/extranetter
+module github.com/mmgreiner/extranetter
 
 go 1.19
 
