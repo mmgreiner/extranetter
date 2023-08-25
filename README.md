@@ -45,8 +45,12 @@ Kontakt: <markus.greiner@pfarrei-aarau.ch>
 
 [Extranet]: https://extranet.pastoralraum-aarau.ch/de/home
 
+## Installation
+
+TBD
+
 ## Entwicklerhinweise
 
 Dieses Werkzeug wurde mit [Go](https://go.dev) entwickelt. Der Web Scraper kommt von [Colly](http://go-colly.org).
 
-Lizenz gemäss MIT.
+Lizenz gemäss [MIT](LICENSE).
