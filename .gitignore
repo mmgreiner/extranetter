@@ -8,3 +8,4 @@ scraper
 extranetter
 login.html
 .env
+*.exe
